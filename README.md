@@ -7,7 +7,6 @@
 - 🎓 Currently studying **B.Tech CSE (Core)**  
 - 💡 Interested in **Systems Programming, Automation, and PC tinkering**  
 - 🎮 Casual gamer who enjoys experimenting with tech  
-- 📩 Reach me at **manaskushwaha99@gmail.com**  
 
 ---
 
@@ -28,6 +27,14 @@
 
 - 🌐 **[Fitness and Health Blog](https://github.com/Manas-Kushwaha-99/Fitness-and-Health-BLog)**  
   An HTML-based blog with health tips, workout routines, and wellness advice.  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** manaskushwaha99@gmail.com
+- **LinkedIn:** www.linkedin.com/in/manas-kushwaha99
+- *(Or find me tinkering with PC hardware and open-source tools!)*
 
 ---
 

@@ -26,8 +26,10 @@
   A simple real-time PC monitoring dashboard using **Python + Tkinter**.  
 
 - 🌐 **[Fitness and Health Blog](https://github.com/Manas-Kushwaha-99/Fitness-and-Health-BLog)**  
-  An HTML-based blog with health tips, workout routines, and wellness advice.  
+  An HTML-based blog with health tips, workout routines, and wellness advice.
 
+- 🛜 **[DNS Manager](https://github.com/Manas-Kushwaha-99/DNS-Manager)**   
+  A simple Windows tool to switch, reset, and manage DNS settings with a modern UI.
 ---
 
 ## 📫 Contact Me

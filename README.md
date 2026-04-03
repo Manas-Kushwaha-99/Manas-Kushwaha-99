@@ -41,9 +41,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Manas-Kushwaha-99&show_icons=true&theme=radical)  
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Manas-Kushwaha-99&show_icons=true&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manas-Kushwaha-99&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Kushwaha-99&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manas-Kushwaha-99&layout=compact&theme=radical)
 
 ---
 

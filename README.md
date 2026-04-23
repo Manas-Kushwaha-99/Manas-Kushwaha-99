@@ -52,11 +52,6 @@
 
 ---
 
-## Acknowledgements
-
-This project was built with the assistance of AI tools for code generation, debugging, and documentation.
-
----
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
